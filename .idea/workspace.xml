@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fda0ec5-49ba-4e2c-9828-73d90ec71870" name="Changes" comment="Exercicios_1.java Finalizado">
-      <change afterPath="$PROJECT_DIR$/src/target/desafios/Exercicios_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7fda0ec5-49ba-4e2c-9828-73d90ec71870" name="Changes" comment="Exercicios_2.java Finalizado">
+      <change afterPath="$PROJECT_DIR$/src/target/desafios/Exercicios_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     "dart.analysis.tool.window.visible": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicios_2">
+  <component name="RunManager" selected="Application.Exercicios_3">
     <configuration name="Exercicios_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="target.desafios.Exercicios_1" />
       <module name="target_desafios" />
@@ -65,8 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicios_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="target.desafios.Exercicios_3" />
+      <module name="target_desafios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="target.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicios_3" />
         <item itemvalue="Application.Exercicios_2" />
         <item itemvalue="Application.Exercicios_1" />
       </list>
@@ -88,11 +101,19 @@
       <option name="project" value="LOCAL" />
       <updated>1709762423369</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercicios_2.java Finalizado">
+      <created>1709762899004</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709762899004</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicios_1.java Finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicios_1.java Finalizado" />
+    <MESSAGE value="Exercicios_2.java Finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios_2.java Finalizado" />
   </component>
 </project>
